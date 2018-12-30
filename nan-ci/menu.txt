@@ -16,8 +16,30 @@
 |   |   +---Travailleurs
 |   \   \---Les adolescents
 |
++--- Produits & Services
+|    +---Développement de site web
+|    +---Développement d'application Mobile
+|    +---Développement de Platephorme et logiciel
+|    +---Hébergement de site web & donné dans le cloud
+|    \---Nom de Domaine
+|
++---Dévenir Partenaire
+|   +---Organisations Gouvernementales
+|   \---Institions & Entreprise
+|
++---Nos Projets & références
+|
++---Communautés étudiants
+|
++---Notre équipe
 
 
+
+
+- Dans le Footer, y mettre: charte-de-bonneConduite.
+- mettre le bouton, "je candidate" comme sur https://wildcodeschool.fr/
+- mettre le bouton qui invite à scrooler, exemple ici: https://www.geekschool.fr/
+- avant la barre de menu, une barre des réseaux sociaux
 
 
 
