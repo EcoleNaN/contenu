@@ -1,4 +1,4 @@
-## Liste des LEVELS (Niveau)
+## Liste des LEVELS (Niveaux)
 
 Dans un Modules, nous avons plusieurs **LEVELS** (niveaux) à franchir, LEVELS dans lesquels se trouve des **stages**.
 Par défaut, Seul le Prémier niveau est déverrouiller, pour déverouiller le niveau suivant, vous devez avoir validé 60% des quiz.
