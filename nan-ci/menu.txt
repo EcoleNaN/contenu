@@ -43,3 +43,30 @@
 
 
 
+Notre Pédagogie:
+Se construire son savoir, se spécialiser dans le domaine qui nous facine le plus. A NaN Nous pensons que tout un chacun a un Talent, la première année de programmation à NaN n'est que l'étape initial de la découverte de soi.
+
+# Le Concours
+Pour entrer à NaN, le premier test du concours se fait sur des tests de logique sans énoncé, le candidat est vite amené à faire appel a son imagination, ensuite pendant le second test, le candidat est invité à regarder une vidéo d'algorithmique suivi d'un quiz, ce qui nous permet de savoir la force de compréhension de chacun des candidats.
+
+# les Cours
+A la fin de ces deux tests, nous acceptons les meilleurs, lesquels vont apprendre 12 langages de programmations ou technologies.
+Nous leurs fournissons un accès à notre plateforme de cours et d'évaluation.
+ils ont une obligation de venir à NaN au moins 2 fois dans la semaine, sachant que la majorité de nos étudiants fréquente d'autres universités où grandes écoles
+Selon leur zone d'habitation, ils sont regroupés et suivi par des parrains c-a-d leurs grands frères de la dernière promotion.
+Ils sont obligés de valider un module(langage) afin de débloquer le module suivant, sinon ils sont injectés du système.
+
+# Les Projets
+chaque Module est accompagné d'un terme, et ces dans ces termes qu'ils sont invités à réaliser un projet.
+exemple du mois de développement web avec le terme "tourisme", l'étudiant peut  alors développer un site web d'un restaurent ou hôtel.
+la réalisation des projets apporte des notes à l'étudiant.
+
+# les Battles
+Afin d'encourager nos étudiants, nous récompensons les meilleurs à la suite des Battles(compétitions) que nous organisons à la fin de chaque Module/mois.
+les récompenses peuvent être des pass internet, des ordinateurs, clé usb, de l'argent pour le transport, tous cela grâce a nos Partenaires et aux initiateurs de cette aventure.
+
+# la responsabilité
+Nous pensons que responsabliser un étudiant, c'est l'amené un pas de plus dans la découverte de son Talent.
+C'est pourquoi, à NaN, dès la deuxième année, nous nommons les étudiants à la tête des projets opensource, afin qu'ils fassent des recherches et développent des solutions pour apporter de la valeur à tel où tel secteur d'activités.
+C'est l'occasion pour eux de créer plustard leur entreprise si leur projet opensource rencontre du succes.
+le chef de groupe qu'on nomme, fait appel à +2 étudiant de sa promotion pour former un groupe et ensemble ils proposeent des projets
