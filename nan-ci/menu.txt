@@ -22,6 +22,10 @@
 |    +---Hébergement de site web & donné dans le cloud         |
 |    +---Nom de Domaine                                        |
 |    +---Commutateur téléphonique
+|    +---Multimédia
+|    |   +---Montage de video
+|    |   +---Photoshop
+|    |
 |    \---Sécurité
 |        +---Backup & Replication 
 |        +---Config Firewall & ssl
