@@ -1,38 +1,38 @@
 +---Notre Pédagogie
 |
 +---Nos Formations
-|   +---Certifiantes
-|   |    +---Par Concours
-|   |    +---Direct avec cours
-|   |    \---Direct sans cours
+|   +---Certifiantes                     |
+|   |    +---Par Concours                |
+|   |    +---Direct avec cours           |------ Business.nan.ci
+|   |    \---Direct sans cours           |
 |   |
 |   +---Cursus des moins 25ans
 |   |   +---Admis aux concours
-|   |   +---Non admis au concours
-|   |   \---les + des 25ans
+|   |   +---Non admis au concours        |
+|   |   \---les + des 25ans              |------ Business.nan.ci
 |   |
 |   +---Formation chez vous
-|   |   +---Entreprise
-|   |   +---Travailleurs
-|   \   \---Adolescents
+|   |   +---Entreprise                   |
+|   |   +---Travailleurs                 |------ Business.nan.ci
+|   \   \---Adolescents                  |
 |
 +--- Produits & Services
-|    +---Conception de site web
-|    +---Développement d'application Mobile
-|    +---Développement de Platephorme et logiciel
-|    +---Hébergement de site web & donné dans le cloud
-|    \---Nom de Domaine
+|    +---Conception de site web                                |
+|    +---Développement d'application Mobile                    |
+|    +---Développement de Platephorme et logiciel              |------ Business.nan.ci
+|    +---Hébergement de site web & donné dans le cloud         |
+|    \---Nom de Domaine                                        |
 |
 +---Dévenir Partenaires
 |   +---Organisations Gouvernementales
 |   \---Institions & Entreprise
 |
 +---Nos Projets & références
-|   +---site Web vitrine
-|   +---Application Mobile
-|   +---Plateforme de management
-|   +---E-commerce
-|   \---Autre application
+|   +---site Web vitrine                                       |
+|   +---Application Mobile                                     |
+|   +---Plateforme de management                               |------ Opensource.nan.ci
+|   +---E-commerce                                             |
+|   \---Autre application                                      |
 |
 +---Communautés étudiants
 |   +---Réseau social
