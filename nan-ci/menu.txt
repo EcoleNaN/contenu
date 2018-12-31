@@ -20,7 +20,15 @@
 |    +---Développement d'application Mobile                    |
 |    +---Développement de Platephorme et logiciel              |------ Business.nan.ci
 |    +---Hébergement de site web & donné dans le cloud         |
-|    \---Nom de Domaine                                        |
+|    +---Nom de Domaine                                        |
+|    +---Commutateur téléphonique
+|    \---Sécurité
+|        +---Backup & Replication 
+|        +---Config Firewall & ssl
+|        +---Config Serveur Mail prof
+|        +---Camera, sauvegarde, detection
+|        +---Authentification
+|        +---Serrure électronique connecté
 |
 +---Dévenir Partenaires
 |   +---Organisations Gouvernementales
