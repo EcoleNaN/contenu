@@ -8,7 +8,6 @@
 |   |
 |   +---Cursus des moins 25ans
 |   |   +---Admis aux concours
-|   |   +---Non admis au concours        |
 |   |   \---les + des 25ans              |------ Business.nan.ci
 |   |
 |   +---Formation chez vous
@@ -66,7 +65,7 @@ A la fin de ces deux tests, nous acceptons les meilleurs, lesquels vont apprendr
 Nous leurs fournissons un accès à notre plateforme de cours et d'évaluation.
 ils ont une obligation de venir à NaN au moins 2 fois dans la semaine, sachant que la majorité de nos étudiants fréquente d'autres universités où grandes écoles.
 Selon leur zone d'habitation, ils sont regroupés et suivi par des parrains c-a-d leurs grands frères de la promotion sortante.
-Dans leurs progressions, Ils sont obligés de valider un module(langage) afin de débloquer le module suivant, sinon ils sont injectés du système.
+Dans leurs progressions, Ils sont obligés de valider un module(langage) afin de débloquer le module suivant, sinon ils sont éjectés du système.
 
 # Les Projets
 chaque Module est accompagné d'un terme, et ces dans ces termes qu'ils sont invités à réaliser un projet.
