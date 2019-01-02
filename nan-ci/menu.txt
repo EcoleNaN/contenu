@@ -37,6 +37,8 @@
 +---Dévenir Partenaires
 |   +---Organisations Gouvernementales
 |   \---Institions & Entreprise
+|       +---organiser votre recrutement
+|       +---réaliser vos idées
 |
 +---Nos Projets & références
 |   +---site Web vitrine                                       |
