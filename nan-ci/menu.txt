@@ -1,26 +1,56 @@
+--- NaN.ci ---
+
 +---Notre Pédagogie
 |
 +---Nos Formations
-|   +---Certifiantes                     |
-|   |    +---Par Concours                |
-|   |    +---Direct avec cours           |------ Business.nan.ci
-|   |    \---Direct sans cours           |
-|   |
 |   +---Cursus des moins 25ans
-|   |   +---Admis aux concours
-|   |   \---les + des 25ans              |------ Business.nan.ci
+|   +---Tous nos modules
+|
++---Nos Projets Opensource
+|
++---Dévenir Partenaires
+|   +---Organisations Gouvernementales
+|   \---Institions & Entreprise
+|       +---organiser votre recrutement
+|       +---réaliser vos idées
+| 
++---Communautés étudiants
+|   +---Réseau social
+|   +---Espace Chef d'équipe
+|   +---Escpace Responsable de Département
+|   +---Réservation de Imac
+|   +---Espace Parrains
+|   +---Espace Concours
+|   +---Résultats & Classements
+
++---Business
+|
++---Notre équipe
+
+
+
+--- Business.NaN.ci ---
+
++---Formations
+|   +---Certifation                    
+|   |    +---Par Concours                
+|   |    +---Direct avec cours           
+|   |    \---Direct sans cours           
+|   |
+|   +---Modules 
+|   |               
 |   |
 |   +---Formation chez vous
-|   |   +---Entreprise                   |
-|   |   +---Travailleurs                 |------ Business.nan.ci
-|   \   \---Adolescents                  |
+|   |   +---Entreprise                   
+|   |   +---Travailleurs                 
+|   \   \---Adolescents                  
 |
 +--- Produits & Services
-|    +---Conception de site web                                |
-|    +---Développement d'application Mobile                    |
-|    +---Développement de Platephorme et logiciel              |------ Business.nan.ci
-|    +---Hébergement de site web & donné dans le cloud         |
-|    +---Nom de Domaine                                        |
+|    +---Conception de site web                                
+|    +---Développement d'application Mobile                    
+|    +---Développement de Platephorme et logiciel              
+|    +---Hébergement de site web & donné dans le cloud         
+|    +---Nom de Domaine                                        
 |    +---Commutateur téléphonique
 |    |   +---autocommutateur
 |    |   +---centre d'appel
@@ -44,30 +74,20 @@
 |        +---Camera, sauvegarde, detection
 |        +---Authentification porte d'entrée
 |        +---Serrure électronique connecté
-|
-+---Dévenir Partenaires
-|   +---Organisations Gouvernementales
-|   \---Institions & Entreprise
-|       +---organiser votre recrutement
-|       +---réaliser vos idées
-|
+| 
 +---Nos Projets & références
-|   +---site Web vitrine                                       |
-|   +---Application Mobile                                     |
-|   +---Plateforme de management                               |------ Opensource.nan.ci
-|   +---E-commerce                                             |
-|   \---Autre application                                      |
+
+
+--- OpenSource.NaN.ci ---
+
++---Nos Projets & références
+|   +---site Web vitrine                                       
+|   +---Application Mobile                                     
+|   +---Plateforme de management                               
+|   +---E-commerce                                             
+|   \---Autre application                                      
 |
-+---Communautés étudiants
-|   +---Réseau social
-|   +---Espace Chef d'équipe
-|   +---Escpace Responsable de Département
-|   +---Réservation de Imac
-|   +---Espace Parrains
-|   +---Espace Concours
-|   +---Résultats & Classements
-|
-+---Notre équipe
+
 
 
 
