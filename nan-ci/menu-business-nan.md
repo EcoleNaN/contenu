@@ -5,49 +5,48 @@ pour ceux qui veullent vous dupliquez (fork) le projet, modifiez et m'envoyer un
 
 ## FORMATIONS
 
-### Certifation
-- Par concours 
-- Direct avec cours 
-- Direct sans cours
-### MODULES
--  
--  
-- 
-### FORMATION CHEZ VOUS
-- Entreprise
-- Travailleurs  
-- Adolescents
+    ### Certifation
+        - Par concours 
+        - Direct avec cours 
+        - Direct sans cours
+    ### MODULES
+        -  
+        -  
+        - 
+    ### FORMATION CHEZ VOUS
+        - Entreprise
+        - Travailleurs  
+        - Adolescents
 
 
 ## PRODUITS & SERVICES
 
-### Conception de site web
-### Développement d'application Mobile
-### Développement de Platephorme et logiciel
-### Hébergement de site web & donné dans le cloud
-### Conception de site web
-### Nom de Domaine
-### Commutateur téléphonique
-- autocommutateur
-- centre d'appel
-- minutes d'appels
-- Vente, location et financement d'Installations téléphonique
-- Autre solution de Voix sur ip
-### Multimédia
-- Montage de video
-- Design & graphisme, Photoshop
-### Gestion de page réseaux sociaux & communication
-- rédaction de contenue facebook/ twiter/ linkedin
-- conception strategie marketing digital
-- e-mail & SMS Marketing
-- sponsorisés page Facebook
-### Sécurité
-- Backup & Replication
-- Config Firewall & ssl
-- Config Serveur Mail prof
-- Camera, sauvegarde, detection
-- Authentification porte d'entrée
-- Serrure électronique connecté
+    ### Conception de site web
+    ### Développement d'application Mobile
+    ### Développement de Platephorme et logiciel
+    ### Hébergement de site web & donné dans le cloud
+    ### Nom de Domaine
+    ### Commutateur téléphonique
+        - autocommutateur
+        - centre d'appel
+        - minutes d'appels
+        - Vente, location et financement d'Installations téléphonique
+        - Autre solution de Voix sur ip
+    ### Multimédia
+        - Montage de video
+        - Design & graphisme, Photoshop
+    ### Gestion de page réseaux sociaux & communication
+        - rédaction de contenue facebook/ twiter/ linkedin
+        - conception strategie marketing digital
+        - e-mail & SMS Marketing
+        - sponsorisés page Facebook
+    ### Sécurité
+        - Backup & Replication
+        - Config Firewall & ssl
+        - Config Serveur Mail prof
+        - Camera, sauvegarde, detection
+        - Authentification porte d'entrée
+        - Serrure électronique connecté
 
 ## NOS PROJETS & REFERENCES
 
