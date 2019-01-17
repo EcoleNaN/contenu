@@ -4,43 +4,41 @@ il s'agit ici d'une proposition des idées de contenu Web NaN Business
 pour ceux qui veullent vous dupliquez (fork) le projet, modifiez et m'envoyer un "Pull request" (me demander de prendre en compte votre modification).
 
 ## FORMATIONS
-
-    ### Certifation
+   ### Certifation
         - Par concours 
         - Direct avec cours 
         - Direct sans cours
-    ### MODULES
+   ### MODULES
         -  
         -  
         - 
-    ### FORMATION CHEZ VOUS
+   ### FORMATION CHEZ VOUS
         - Entreprise
         - Travailleurs  
         - Adolescents
 
 
 ## PRODUITS & SERVICES
-
-    ### Conception de site web
-    ### Développement d'application Mobile
-    ### Développement de Platephorme et logiciel
-    ### Hébergement de site web & donné dans le cloud
-    ### Nom de Domaine
-    ### Commutateur téléphonique
+   ### Conception de site web
+   ### Développement d'application Mobile
+   ### Développement de Platephorme et logiciel
+   ### Hébergement de site web & donné dans le cloud
+   ### Nom de Domaine
+   ### Commutateur téléphonique
         - autocommutateur
         - centre d'appel
         - minutes d'appels
         - Vente, location et financement d'Installations téléphonique
         - Autre solution de Voix sur ip
-    ### Multimédia
+   ### Multimédia
         - Montage de video
         - Design & graphisme, Photoshop
-    ### Gestion de page réseaux sociaux & communication
+   ### Gestion de page réseaux sociaux & communication
         - rédaction de contenue facebook/ twiter/ linkedin
         - conception strategie marketing digital
         - e-mail & SMS Marketing
         - sponsorisés page Facebook
-    ### Sécurité
+   ### Sécurité
         - Backup & Replication
         - Config Firewall & ssl
         - Config Serveur Mail prof
