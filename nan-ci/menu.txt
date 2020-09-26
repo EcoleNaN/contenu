@@ -1,31 +1,42 @@
 --- NaN.ci ---
 
-+---Notre Pédagogie
++---Pédagogie
 |
-+---Nos Formations
++---Formations
 |   +---Cursus des moins 25ans
 |   +---Tous nos modules
 |
-+---Nos Projets Opensource
 |
-+---Dévenir Partenaires
-|   +---Organisations Gouvernementales
-|   \---Institions & Entreprise
-|       +---organiser votre recrutement
-|       +---réaliser vos idées
++---Entreprises
+|   +---Recrutez vos Talents
+|   +---Formez vos Talents
+|   +---Développez votre Projet
+|     
 | 
-+---Communautés étudiants
-|   +---Réseau social
-|   +---Espace Chef d'équipe
-|   +---Escpace Responsable de Département
-|   +---Réservation de Imac
-|   +---Espace Parrains
++---Communautés
+|   +---Espace Cours
 |   +---Espace Concours
 |   +---Résultats & Classements
-
-+---Business
+|   +---Liste des Certifiés
+|   +---Réseau social
+|   +---Forum
 |
-+---Notre équipe
++---News & agenda
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
